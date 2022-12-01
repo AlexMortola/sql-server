@@ -1,0 +1,9 @@
+https://www.sqlservercentral.com/blogs/understanding-columnstore-indexes-in-sql-server-part-1
+https://www.red-gate.com/simple-talk/sql/database-administration/the-end-of-sql-server-2008-and-2008-r2-extended-support/
+http://www.interdb.jp/pg/
+
+Tempdb
+https://www.mssqltips.com/sqlservertip/6493/sql-server-tempdb-tutorial/
+
+https://www.brentozar.com/archive/2020/11/how-to-set-get-the-next-id-without-serializable-isolation/
+
